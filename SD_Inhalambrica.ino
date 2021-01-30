@@ -5,8 +5,8 @@
  *                                          *
  ********************************************/
 
-const char* ssid     = "LaBuhardillaDelLoco";
-const char* password = "Password12345";
+const char* ssid     = "Nombre_red_wifi";
+const char* password = "Password_red_wifi";
 
 
 #include <ESP8266WiFi.h>
